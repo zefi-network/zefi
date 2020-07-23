@@ -1,5 +1,5 @@
-# Zefi
-Decentralized Finance extension of Zclassic
+# ZEFI
+Zecentralized Finance extension of Zclassic
 
 # Bridging Zclassic Bitcoin and Ethereum
 The Zefi network brings Zclassic to ethereum as a wrapped erc-20 token
